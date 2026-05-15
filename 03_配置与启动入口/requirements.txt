@@ -1,0 +1,5 @@
+﻿# Portfolio redacted placeholder
+# Source file: 03_配置与启动入口\requirements.txt
+#
+# Original dependency versions were removed from this portfolio package.
+# This placeholder only indicates that the project has an explicit Python dependency list.
